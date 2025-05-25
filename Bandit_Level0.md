@@ -2,6 +2,8 @@
 
 ## cmd: $ ssh username@remote -p sepcified port number
 
+- Enter below command to connect with overthewire labs
+  
 ## $ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 ![image](https://github.com/user-attachments/assets/d6d0c6a1-3bdd-4f25-9563-a6712304ced8)
